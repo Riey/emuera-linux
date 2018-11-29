@@ -2,6 +2,8 @@
 
 Emuera for Linux
 
+Base on Emuera(https://ko.osdn.net/projects/emuera)
+
 
 ## Requirement
 
